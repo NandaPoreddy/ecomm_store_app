@@ -9,5 +9,8 @@ public class MayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MayApplication.class, args);
 	}
+	
+	i = 10;
+	j =20;
 
 }
