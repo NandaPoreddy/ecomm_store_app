@@ -12,5 +12,6 @@ public class MayApplication {
 	
 	i = 10;
 	j =20;
+	System.out.println(j);
 
 }
